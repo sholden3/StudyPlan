@@ -133,11 +133,18 @@ https://www.udemy.com/course/algorithms-and-data-structures-in-python/learn/lect
 # Data Science and Optimization
 https://cs229.stanford.edu/main_notes.pdf
 
-https://app.pluralsight.com/paths/skill/machine-learning-engineering
+(https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera)
+(https://github.com/susilvaalmeida/machine-learning-andrew-ng)
+(https://github.com/SrirajBehera/Machine-Learning-Andrew-Ng)
+(https://github.com/azminewasi/Machine-Learning-AndrewNg-DeepLearning.AI/tree/main/1%20Supervised%20Machine%20Learning%20Regression%20and%20Classification)
+(https://github.com/stamatelou/Machine-Learning-AndrewNg-SOLUTIONS)
+(https://github.com/amanchadha/coursera-deep-learning-specialization)
 
 https://app.pluralsight.com/paths/skill/machine-learning-literacy
 
 https://app.pluralsight.com/paths/skill/machine-learning-literacy-practical-application
+
+https://app.pluralsight.com/paths/skill/machine-learning-engineering
 
 https://app.pluralsight.com/paths/skill/building-machine-learning-solutions-with-scikit-learn
 
